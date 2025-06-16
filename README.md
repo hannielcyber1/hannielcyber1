@@ -11,7 +11,7 @@ Whether it's analyzing logs, building SIEM dashboards, or simulating attacks in 
 
 🧠 About Me
 
-- 🎓 Background in Telecmmunications Engineering, Information Security, Data Science and Network Administration
+- 🎓 Background in Telecmmunications and Network Engineering, Information Security, Data Science and Network Administration
 - 🔍 Skilled in Security Monitoring, Incident Response, and Threat Intelligence
 - 💡 Enthusiastic about ethical hacking, malware analysis, and digital forensics
 - ⚙️ Constantly exploring tools like Splunk, Wireshark, Zeek, and ELK Stack
