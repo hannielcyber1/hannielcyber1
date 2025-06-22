@@ -35,6 +35,8 @@ Whether it's analyzing logs, building SIEM dashboards, or simulating attacks in 
 - Vulnerability Assessment
 - Incident Response Playbooks
 
+📂 Projects
+
 
 
 
