@@ -1,6 +1,6 @@
 Hello I'm Hanniel Nene Djanma Nyemitei
 
-👨‍💻 Cybersecurity Analyst | Threat Hunter | Blue Team Specialist
+👨‍💻 Cybersecurity Analyst | Threat Hunter | Blue Team Specialist | Telecommunications Engineer
 
 
 Welcome to my GitHub! 
@@ -36,7 +36,7 @@ Whether it's analyzing logs, building SIEM dashboards, or simulating attacks in 
 - Incident Response Playbooks
 
 📂 Projects
-
+-Github(https://github.com/hannielcyber/Cyber)
 
 
 
