@@ -1,25 +1,25 @@
 ## Hello I'm Hanniel Nene Djanma Nyemitei
 
-## 👨‍💻 Cybersecurity Analyst | Threat Hunter | Blue Team Specialist | Telecommunications Engineer| Upcoming Data Scientist
+## 👨‍💻 Upcoming Cybersecurity Analyst | Threat Hunter | Blue Team Specialist | Telecommunications Engineer|  Data Analyst
 
 
 Welcome to my GitHub! 
-I'm a passionate and detail-oriented Cybersecurity Analyst focused on protecting systems, networks, and data from digital attacks. 
+I am going to become a passionate and detail-oriented Cybersecurity Analyst focused on protecting systems, networks, and data from digital attacks. 
 I specialize in threat detection, incident response, and vulnerability management.
 
 Whether it's analyzing logs, building SIEM dashboards, or simulating attacks in a lab environment—I'm all about keeping systems secure.
 
 ## 🧠 About Me
 
-- 🎓 Background in Telecmmunications and Network Engineering, Information Security, Data Science and Network Administration
-- 🔍 Skilled in Security Monitoring, Incident Response, and Threat Intelligence
+- 🎓 A Brief Background in Telecmmunications and Network Engineering, Information Security, Data Science and Network Administration
+- 🔍 Training in Security Monitoring, Incident Response, Threat Intelligence, Network Engineering and Data Analysis
 - 💡 Enthusiastic about ethical hacking, malware analysis, and digital forensics
-- ⚙️ Constantly exploring tools like Splunk, Wireshark, Zeek, and ELK Stack
+- ⚙️ Constantly exploring tools like Splunk, Snort, Cisco Packet Tracer, Wireshark, Zeek, and ELK Stack
 - 🔒 Committed to learning, sharing, and contributing to the infosec community
 -------------------------------------------------------------------------------------------------------------------------------------
  
   
- # 🛠️ Technical Skills
+ # 🛠️ Future Technical Skills
 
 ## 🖥️ Security Tools
 
