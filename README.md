@@ -1,4 +1,4 @@
-## Hello I'm Hanniel Nene Djanma Nyemitei
+# Hello I'm Hanniel Nene Djanma Nyemitei
 
 ## 👨‍💻 Upcoming Cybersecurity Analyst | Threat Hunter | Blue Team Specialist | Telecommunications Engineer
 
@@ -19,12 +19,12 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 -------------------------------------------------------------------------------------------------------------------------------------
  
   
- # 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
  
-##  🔎 SIEM
+###  🔎 SIEM
 
 
 
@@ -33,10 +33,7 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 
 
-
-
-
-##  🔍 Scanning
+###  🔍 Scanning
 
 
 
@@ -46,7 +43,7 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 
 
-##  🧬 Forensics
+###  🧬 Forensics
 
 
 
@@ -58,7 +55,7 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 
 
-##  🌐 Packet Analysis
+###  🌐 Packet Analysis
 
 
 
@@ -78,7 +75,8 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 
 
-#  Tech Stack👨🏻‍💻
+##  Tech Stack👨🏻‍💻
+---
 
 **Languages</>**
 
@@ -91,12 +89,12 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 **Cloud☁︎**
 
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge\&logo=microsoft-azure\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 
 
@@ -104,26 +102,11 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-**Microprocessors**
-
-
-![AMD](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto)
-![Intel](https://img.shields.io/badge/Intel-0071C5.svg?style=for-the-badge&logo=Intel&logoColor=white) 
-
-
-**Networking🌐**
-
-
-
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white) 
 
 
 
