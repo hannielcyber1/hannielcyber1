@@ -26,8 +26,7 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
  
 ###  🔎 SIEM
 
-
-
+![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000.svg?style=for-the-badge&logo=Splunk&logoColor=white)
 
 
@@ -108,6 +107,13 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 
 
+**🌐Networking and Security**
+
+
+
+![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 
 
