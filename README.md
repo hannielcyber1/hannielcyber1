@@ -11,10 +11,10 @@ Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM
 
 ## 🧠 About Me
 
-- 🎓 A Brief Background in Telecmmunications and Network Engineering, Information Security, Data Science and Network Administration
+- 🎓 A  Background in Telecmmunications and Network Engineering,Antenna Design,  Information Security, Data Science and Network Administration
 - 🔍 Currently Training in Security Monitoring, Incident Response, Threat Intelligence, Network Engineering and Data Analysis
 - 💡 Enthusiastic about ethical hacking, malware analysis, and digital forensics
-- ⚙️ Constantly exploring tools like Splunk, Snort, Cisco Packet Tracer and Wireshark
+- ⚙️ Constantly exploring tools like Splunk, Wazuh, Snort, Cisco Packet Tracer and Wireshark
 - 🔒 Committed to learning, sharing, and contributing to the infosec community
 -------------------------------------------------------------------------------------------------------------------------------------
  
