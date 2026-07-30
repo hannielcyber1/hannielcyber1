@@ -3,7 +3,7 @@
 ## 👨‍💻 Upcoming Cybersecurity Analyst | Threat Hunter | Blue Team Specialist | Telecommunications Engineer
 
 
-Welcome to my GitHub! 
+Welcome to my GitHub!!!
 I am going to become a passionate and detail-oriented Cybersecurity Analyst and Network Engineer focused on configuring and contructing networks as well as protecting systems, networks, and data from digital attacks. 
 I specialize in threat detection, incident response and vulnerability management.
 
