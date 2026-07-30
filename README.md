@@ -5,7 +5,7 @@
 
 Welcome to my GitHub! 
 I am going to become a passionate and detail-oriented Cybersecurity Analyst and Network Engineer focused on configuring and contructing networks as well as protecting systems, networks, and data from digital attacks. 
-I specialize in threat detection, incident response, and vulnerability management.
+I specialize in threat detection, incident response and vulnerability management.
 
 Whether it's configuring/troubleshooting networks, analyzing logs, building SIEM dashboards, or simulating attacks in a lab environment—I'm all about keeping systems and networks secure.
 
