@@ -63,7 +63,7 @@ I enjoy designing enterprise environments, monitoring security events, automatin
 
 </p>
 
-A cybersecurity-focused Active Directory home lab built with Windows Server, Windows 10, Sysmon, Splunk, and Kali Linux to simulate enterprise monitoring, threat detection, attack simulation, incident response, and Blue Team operations.
+A cybersecurity focused Active Directory home lab built with Windows Server, Windows 10, Sysmon, Splunk, and Kali Linux to simulate enterprise monitoring, threat detection, attack simulation, incident response, and Blue Team operations.
 
 **Tech Stack**
 
